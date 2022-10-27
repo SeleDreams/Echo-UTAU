@@ -1,0 +1,7 @@
+name=Écho - Projet Météore
+author=SeleDreams x Flora Mori
+Langage/Language: Français/French
+Date de création/Creation date: 27/10/2022 (dd/mm/yyyy)
+Updated: 27/10/2022 (dd/mm/yyyy)
+Gender: Female
+image=
