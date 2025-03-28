@@ -1,1 +1,3 @@
-Copyright - 2023 - SeleDreams
+CC BY-NC 4.0
+
+license text here https://creativecommons.org/licenses/by-nc/4.0/deed.en
